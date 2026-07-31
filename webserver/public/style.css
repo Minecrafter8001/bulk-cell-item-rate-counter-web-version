@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #181818;
+    color: #eee;
+    margin: 40px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px 12px;
+    border-bottom: 1px solid #333;
+}
+
+th {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.positive {
+    color: #00aa00;
+}
+
+.negative {
+    color: #cc3300;
+}
+
+small {
+    display: block;
+    margin-bottom: 20px;
+    color: #888;
+}
